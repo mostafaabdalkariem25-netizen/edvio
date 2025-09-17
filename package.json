@@ -43,3 +43,10 @@
     "husky": "^8.0.1"
   }
 }
+"devDependencies": {
+  "typescript": "4.7.4"
+}
+npm install
+git add package.json package-lock.json
+git commit -m "fix: align typescript version with msw"
+git push
