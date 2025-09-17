@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+html[lang="ar"] {
+  font-family: 'Cairo', sans-serif;
+}
+
+@layer base {
+  h1, h2, h3 {
+    @apply font-bold;
+  }
+}

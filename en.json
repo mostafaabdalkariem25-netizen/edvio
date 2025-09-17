@@ -1,0 +1,88 @@
+{
+  "hero": {
+    "title": "EasyInvoice — Professional Invoicing System",
+    "subtitle": "Create, print, and send invoices in minutes — all without a server.",
+    "cta": "Try the Demo"
+  },
+  "features": {
+    "title": "Features",
+    "create": "Create Invoices",
+    "createDesc": "Easily create professional invoices with automatic calculations.",
+    "download": "Download PDF",
+    "downloadDesc": "Export invoices as PDF or CSV for easy sharing.",
+    "reports": "Reports",
+    "reportsDesc": "Visualize your revenue with insightful charts."
+  },
+  "screenshots": {
+    "title": "Screenshots"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Full Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalInvoices": "Total Invoices",
+    "totalPaid": "Total Paid",
+    "overdue": "Overdue Invoices",
+    "clients": "Clients",
+    "revenue": "Revenue",
+    "recentInvoices": "Recent Invoices",
+    "createInvoice": "Create New Invoice"
+  },
+  "invoices": {
+    "title": "Invoices",
+    "id": "Invoice ID",
+    "client": "Client",
+    "dueDate": "Due Date",
+    "total": "Total",
+    "status": "Status",
+    "actions": "Actions",
+    "search": "Search invoices...",
+    "create": "Create Invoice",
+    "all": "All",
+    "paid": "Paid",
+    "unpaid": "Unpaid",
+    "partiallyPaid": "Partially Paid",
+    "detail": "Invoice Details",
+    "notFound": "Invoice not found",
+    "seller": "Seller",
+    "issueDate": "Issue Date",
+    "downloadPDF": "Download PDF",
+    "send": "Send Invoice",
+    "markAsPaid": "Mark as Paid",
+    "description": "Description",
+    "quantity": "Quantity",
+    "unitPrice": "Unit Price",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "addItem": "Add Item",
+    "submit": "Submit"
+  },
+  "clients": {
+    "title": "Clients",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "actions": "Actions"
+  },
+  "settings": {
+    "title": "Settings",
+    "company": "Company Details",
+    "companyName": "Company Name",
+    "language": "Language",
+    "arabic": "Arabic",
+    "english": "English",
+    "theme": "Theme",
+    "toggleTheme": "Toggle Dark Mode"
+  }
+}
